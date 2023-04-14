@@ -1,11 +1,11 @@
-# Build an Ecommerce Chatbot with Redis, LangChain, and OpenAI
+# Build a real-time financial news chatbot with Bytewax, Langchain, Redis and Openai
 
 
->*Powered by [Redis](https://redis.io), [LangChain](https://python.langchain.com/en/latest/), and [OpenAI](https://platform.openai.com)*
+>*Powered by [Bytewax](https://bytewax.io/), [Redis](https://redis.io), [LangChain](https://python.langchain.com/en/latest/), and [OpenAI](https://platform.openai.com)*
 
-In this tutorial we build a conversational retail shopping assistant that helps customers find items of interest that are buried in a product catalog. Our chatbot will take user input, find relevant products, and present the information in a friendly and detailed manner.
+This tutorial is based off of the Redis/Langchain tutorial that created a conversational retail shopping assistant to help customers find items of interest that are buried in a product catalog. Instead of looking for products, we are going to make this chatbot help us better understand the news.
 
-The source code here goes along with [this Redis blog post](). Try various prompt-engineering techniques to improve on this prototype for your use case!
+As the original authors did, I would encourage you to try various prompt-engineering techniques to improve on this prototype for your use case! or to add additional news sources to the pipeline.
 
 ## Getting Started
 

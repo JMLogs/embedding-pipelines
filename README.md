@@ -1,4 +1,4 @@
-# Build a real-time financial news chatbot with Bytewax, Langchain, Redis and Openai
+# Build a real-time news chatbot with Bytewax, Langchain, Redis and Openai
 
 
 >*Powered by [Bytewax](https://bytewax.io/), [Redis](https://redis.io), [LangChain](https://python.langchain.com/en/latest/), and [OpenAI](https://platform.openai.com)*
